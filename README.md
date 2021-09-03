@@ -1,4 +1,4 @@
-# Kodluyoruz - Front-End 1998 Google Clone
+# Kodluyoruz - Front-End 1998 Google Homepage
 ***Kodluyoruz*** Front-End Web Patikası Html son ödevidir. 
 *** 
 ![Image](img/Google1998.png)
